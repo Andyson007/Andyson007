@@ -1,5 +1,5 @@
 - 👀 I’m interested in chess
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust
 
 <!---
 Andyson007/Andyson007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
