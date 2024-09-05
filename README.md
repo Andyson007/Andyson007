@@ -1,7 +1,1 @@
-- 👀 I’m interested in chess
-- 🌱 I’m currently learning Rust
-
-<!---
-Andyson007/Andyson007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello I'm Andy. I'm a young dev developing stuff. I have done stuff in many languages before, but I've mainly pivoted to rust now. 
